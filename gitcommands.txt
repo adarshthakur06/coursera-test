@@ -6,6 +6,6 @@
 
 4. git add . //to track 
 
-5. git commit -m "whatever." //to save all changes in cloud
+5. git commit -m "whatever." //to save all changes 
  
- 
+6. git push   //  push all the changes on cloud
