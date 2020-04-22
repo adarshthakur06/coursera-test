@@ -1,11 +1,13 @@
-1. git clone <url>  //to establish connections
+1. git init  // to create or initialize a git repositry
 
-2. git status
+2. git clone <url>  //to establish connections
 
-3. git checkout <new branch name>   //to change the branch
+3. git status
 
-4. git add . //to track 
+4. git checkout <new branch name>   //to change the branch
 
-5. git commit -m "whatever." //to save all changes 
+5. git add . //to track 
+
+6. git commit -m "whatever." //to save all changes 
  
-6. git push   //  push all the changes on cloud
+7. git push   //  push all the changes on cloud
