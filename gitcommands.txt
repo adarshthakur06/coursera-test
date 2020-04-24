@@ -11,3 +11,5 @@
 6. git commit -m "whatever." //to save all changes 
  
 7. git push   //  push all the changes on cloud
+
+8. browser-sync start --server --directory --files "*"  // create a local host on a web browser
